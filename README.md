@@ -1,4 +1,6 @@
-# AI-Powered Adaptive Traffic Management System
+# APPLICATIONS OF IMAGE PROCESSING TECHNIQUES IN CYBER-PHYSICAL SYSTEMS
+Intelligent Traffic Congestion Analysis and Adaptive Signal Control with YOLOv8
+
 
 ## Overview
 
